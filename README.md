@@ -22,7 +22,7 @@ MoodAnalyzer is an innovative AI-powered iOS (mobile) application that helps use
 
 ## 🔗 GitHub Link and Demo
 
-- **GitHub:** [https://github.com/srimoyee1212/MoodAnalyzer](https://github.com/srimoyee1212/MoodAnalyzer)
+- **GitHub:** [https://github.com/srimoyee1212/MoodAnalyzer](https://github.com/123jklas/MoodAnalyzer)
 - **Demo:**
 
   1. Demo for Drawing only analysis for those who would express through art rather than words [Demo 1](https://drive.google.com/file/d/1IXE-Cb0ehQvPAkUqU3sjYfE6hUNm0WaW/view?usp=sharing)
