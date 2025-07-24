@@ -8,9 +8,9 @@ MoodAnalyzer is an innovative AI-powered iOS (mobile) application that helps use
 
 ## 👥 Team Members
 
+- Taegang Kim ([minjoy0321@gmail.com](mailto:minjoy0321@gmail.com))
 - Srimoyee Mukhopadhyay ([srimoyeem1@gmail.com](mailto:srimoyeem1@gmail.com))
 - Minho Park ([mpia0129@naver.com](mailto:mpia0129@naver.com))
-- Taegang Kim ([minjoy0321@gmail.com](mailto:minjoy0321@gmail.com))
 
 ## ▶️ Key Functionalities
 
